@@ -1,0 +1,277 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{convex}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5cd9791a43b8812be4e3f9d64521947a}{%
+           family={Boyd},
+           familyi={B\bibinitperiod},
+           given={Stephen\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2608d599a0bc2a784c301329a8da5f7b}{%
+           family={Vandenberghe},
+           familyi={V\bibinitperiod},
+           given={Lieven},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{51b5c5e76e19784bb7c212d8d9235828}
+      \strng{fullhash}{51b5c5e76e19784bb7c212d8d9235828}
+      \strng{bibnamehash}{51b5c5e76e19784bb7c212d8d9235828}
+      \strng{authorbibnamehash}{51b5c5e76e19784bb7c212d8d9235828}
+      \strng{authornamehash}{51b5c5e76e19784bb7c212d8d9235828}
+      \strng{authorfullhash}{51b5c5e76e19784bb7c212d8d9235828}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cambridge university press}
+      \field{title}{Convex optimization}
+      \field{year}{2004}
+    \endentry
+    \entry{Preconditioningiterativemethods}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6e6b922b5a909649b1660d00c3f39a80}{%
+           family={Bruaset},
+           familyi={B\bibinitperiod},
+           given={Are\bibnamedelima Magnus},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{6e6b922b5a909649b1660d00c3f39a80}
+      \strng{fullhash}{6e6b922b5a909649b1660d00c3f39a80}
+      \strng{bibnamehash}{6e6b922b5a909649b1660d00c3f39a80}
+      \strng{authorbibnamehash}{6e6b922b5a909649b1660d00c3f39a80}
+      \strng{authornamehash}{6e6b922b5a909649b1660d00c3f39a80}
+      \strng{authorfullhash}{6e6b922b5a909649b1660d00c3f39a80}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A survey of preconditioned iterative methods}
+      \field{year}{2018}
+    \endentry
+    \entry{PDE_t}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f024a4442bf9475457bca81468c30661}{%
+           family={Choi\bibnamedelima Youngsoo},
+           familyi={C\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           given={Walter\bibnamedelima Murray},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a27987a182ddb7b55f98aefde221e95a}{%
+           family={Avery},
+           familyi={A\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9b1203a92bcdcd4304611c60a3a55cec}
+      \strng{fullhash}{9b1203a92bcdcd4304611c60a3a55cec}
+      \strng{bibnamehash}{9b1203a92bcdcd4304611c60a3a55cec}
+      \strng{authorbibnamehash}{9b1203a92bcdcd4304611c60a3a55cec}
+      \strng{authornamehash}{9b1203a92bcdcd4304611c60a3a55cec}
+      \strng{authorfullhash}{9b1203a92bcdcd4304611c60a3a55cec}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PDE-constrained Optimization and Beyond}
+      \field{year}{2011}
+    \endentry
+    \entry{more}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34f121d017b8778966005fb772a5cc66}{%
+           family={Farhat},
+           familyi={F\bibinitperiod},
+           given={Charbel},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34f121d017b8778966005fb772a5cc66}
+      \strng{fullhash}{34f121d017b8778966005fb772a5cc66}
+      \strng{bibnamehash}{34f121d017b8778966005fb772a5cc66}
+      \strng{authorbibnamehash}{34f121d017b8778966005fb772a5cc66}
+      \strng{authornamehash}{34f121d017b8778966005fb772a5cc66}
+      \strng{authorfullhash}{34f121d017b8778966005fb772a5cc66}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal for numerical methods in engineering}
+      \field{title}{FETI‐DP: a dual–primal unified FETI method—part I: A faster alternative to the two‐level FETI method.}
+      \field{volume}{50}
+      \field{year}{2001}
+      \field{pages}{1523\bibrangedash 1544}
+      \range{pages}{22}
+    \endentry
+    \entry{MultigridMethods}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=01bcfafc59c11a565163fcf9ef2a0907}{%
+           family={Hackbusch},
+           familyi={H\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{01bcfafc59c11a565163fcf9ef2a0907}
+      \strng{fullhash}{01bcfafc59c11a565163fcf9ef2a0907}
+      \strng{bibnamehash}{01bcfafc59c11a565163fcf9ef2a0907}
+      \strng{authorbibnamehash}{01bcfafc59c11a565163fcf9ef2a0907}
+      \strng{authornamehash}{01bcfafc59c11a565163fcf9ef2a0907}
+      \strng{authorfullhash}{01bcfafc59c11a565163fcf9ef2a0907}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Springer Science and Business Media}
+      \field{title}{Multi-grid methods and applications}
+      \field{year}{2013}
+    \endentry
+    \entry{heat}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18720f5124d81229bcd9443cbcbb2630}{%
+           family={Hahn\bibnamedelimb D\bibnamedelima W},
+           familyi={H\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Özisik\bibnamedelimb M\bibnamedelima N.},
+           giveni={Ö\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{18720f5124d81229bcd9443cbcbb2630}
+      \strng{fullhash}{18720f5124d81229bcd9443cbcbb2630}
+      \strng{bibnamehash}{18720f5124d81229bcd9443cbcbb2630}
+      \strng{authorbibnamehash}{18720f5124d81229bcd9443cbcbb2630}
+      \strng{authornamehash}{18720f5124d81229bcd9443cbcbb2630}
+      \strng{authorfullhash}{18720f5124d81229bcd9443cbcbb2630}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{John Wiley and Sons}
+      \field{title}{Heat conduction}
+      \field{year}{2012}
+    \endentry
+    \entry{FETI2}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=574e0005a82895473f837aa083a53f13}{%
+           family={Mandel},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e50650ab9d4c0128eb605d1162c7d55}{%
+           family={Tezaur},
+           familyi={T\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b1cbd43aff3c6e3f7b5d7a33df8c112}
+      \strng{fullhash}{6b1cbd43aff3c6e3f7b5d7a33df8c112}
+      \strng{bibnamehash}{6b1cbd43aff3c6e3f7b5d7a33df8c112}
+      \strng{authorbibnamehash}{6b1cbd43aff3c6e3f7b5d7a33df8c112}
+      \strng{authornamehash}{6b1cbd43aff3c6e3f7b5d7a33df8c112}
+      \strng{authorfullhash}{6b1cbd43aff3c6e3f7b5d7a33df8c112}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Numerische Mathematik}
+      \field{title}{On the Convergence of a Substructuring Method with Lagrange multipliers}
+      \field{volume}{73}
+      \field{year}{1996}
+      \field{pages}{473\bibrangedash 487}
+      \range{pages}{15}
+    \endentry
+    \entry{Phisics}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d2bfb1b69b865fe0ee18e14178b3242e}{%
+           family={Reese},
+           familyi={R\bibinitperiod},
+           given={Ronald\bibnamedelima Lane},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d2bfb1b69b865fe0ee18e14178b3242e}
+      \strng{fullhash}{d2bfb1b69b865fe0ee18e14178b3242e}
+      \strng{bibnamehash}{d2bfb1b69b865fe0ee18e14178b3242e}
+      \strng{authorbibnamehash}{d2bfb1b69b865fe0ee18e14178b3242e}
+      \strng{authornamehash}{d2bfb1b69b865fe0ee18e14178b3242e}
+      \strng{authorfullhash}{d2bfb1b69b865fe0ee18e14178b3242e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cengage Learning}
+      \field{title}{University physics. Vol. 2.}
+      \field{year}{2000}
+    \endentry
+    \entry{FEM}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93733dfde0c47db226efad798ab3b662}{%
+           family={Strang},
+           familyi={S\bibinitperiod},
+           given={Gilbert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93733dfde0c47db226efad798ab3b662}
+      \strng{fullhash}{93733dfde0c47db226efad798ab3b662}
+      \strng{bibnamehash}{93733dfde0c47db226efad798ab3b662}
+      \strng{authorbibnamehash}{93733dfde0c47db226efad798ab3b662}
+      \strng{authornamehash}{93733dfde0c47db226efad798ab3b662}
+      \strng{authorfullhash}{93733dfde0c47db226efad798ab3b662}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wellesley-Cambridge Press}
+      \field{title}{Computational science and engineering}
+      \field{year}{2007}
+    \endentry
+  \enddatalist
+  \missing{FETI1}
+  \missing{anonymous2024sophiainaudition}
+\endrefsection
+\endinput
+
