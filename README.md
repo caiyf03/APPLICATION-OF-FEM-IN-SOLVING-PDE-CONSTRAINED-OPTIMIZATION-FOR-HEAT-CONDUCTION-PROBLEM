@@ -2,7 +2,8 @@ This is about Computational Science and Engineering course's final project
 
 This is a study on the "APPLICATION OF FINITE ELEMENT METHODS IN SOLVING PDE-CONSTRAINED OPTIMIZATION FOR HEAT CONDUCTION PROBLEMS." topic. In this article, we combine the concepts of finite element methods and convex optimization to sequentially solve three predictive problems in heat conduction, achieving promising results.
 
-ABSTRACT
+**ABSTRACT**
+
 PDE-constrained optimization involves partial differential equations (PDEs) and optimization, playing crucial role in modeling and solving complex real-world problems. It is widely applied across
 various fields, especially in optimization design, optimal control, and inverse problems like parameter estimation. This paper focuses on the Simultaneous Analysis and Design (SAND) method and its
 application in specific types of PDE-constrained optimization problems (with FEM-like methods). Through three thermodynamics cases involving heat conduction in conductors, we address issues
@@ -13,7 +14,8 @@ apply algorithms to specific thermodynamic case studies after thoroughly underst
 and expansion attempts. This paper aims to emphasize the important role of effective numerical techniques in real-life applications. Through this discussion, we hope to gain deeper insights into
 Computational Science and Engineering, particularly in the field of Finite Element optimization problem-solving, and ultimately apply these insights effectively in our practical work and research.
 
-Keywords 
+_Keywords_
+
 PDE · Thermal Conduction Problem · Control Optimization Theory
 
-Teammember: YiFan Cai(leader), FanHao Bu, PeiJun Xu
+**Teammember**: YiFan Cai(leader), FanHao Bu, PeiJun Xu
