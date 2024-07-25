@@ -1,6 +1,6 @@
-This is about Computational Science and Engineering course's final project
+**This project is for Computational Science and Engineering course's final project**
 
-This is a study on the "APPLICATION OF FINITE ELEMENT METHODS IN SOLVING PDE-CONSTRAINED OPTIMIZATION FOR HEAT CONDUCTION PROBLEMS." topic. In this article, we combine the concepts of finite element methods and convex optimization to sequentially solve three predictive problems in heat conduction, achieving promising results.
+_A study on the topic:"APPLICATION OF FINITE ELEMENT METHODS IN SOLVING PDE-CONSTRAINED OPTIMIZATION FOR HEAT CONDUCTION PROBLEMS." In this article, we combine the concepts of finite element methods and convex optimization to sequentially solve three predictive problems in heat conduction, achieving promising results._
 
 **ABSTRACT**
 
@@ -14,7 +14,7 @@ apply algorithms to specific thermodynamic case studies after thoroughly underst
 and expansion attempts. This paper aims to emphasize the important role of effective numerical techniques in real-life applications. Through this discussion, we hope to gain deeper insights into
 Computational Science and Engineering, particularly in the field of Finite Element optimization problem-solving, and ultimately apply these insights effectively in our practical work and research.
 
-_Keywords_
+**Keywords**
 
 PDE · Thermal Conduction Problem · Control Optimization Theory
 
